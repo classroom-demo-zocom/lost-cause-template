@@ -1,2 +1,4 @@
-# lost-cause-template
-Prove that you're not a lost cause by typing some code.
+# Uppgift 1
+Skriv ett JavaScript program som skriver ut strängen "Hello, world" på konsolen.
+
+Tips: använd funktionen console.log.
